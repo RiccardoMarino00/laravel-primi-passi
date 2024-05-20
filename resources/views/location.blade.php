@@ -5,11 +5,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>CONTACT</h1>
+    <h1>LOCATION</h1>
     <ul>
         <li><a href="{{ route('homePage') }}">Home</a></li>
-        <li><a href="{{ route('locazione') }}">Location</a></li>
+        <li><a href="{{ route('contatti') }}">Contatti</a></li>
     </ul>
-
 </body>
 </html>

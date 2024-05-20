@@ -5,6 +5,15 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>HELLO WORLD!</h1>
+    <header>
+        <h1>HELLO WORLD!</h1>
+        <ul>
+            <li><a href="{{ route('contatti') }}">Contatti</a></li>
+            <li><a href="{{ route('locazione') }}">Location</a></li>
+        </ul>
+        
+
+
+    </header>
 </body>
 </html>
